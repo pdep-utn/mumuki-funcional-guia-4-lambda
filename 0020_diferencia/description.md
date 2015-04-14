@@ -1,4 +1,9 @@
-Definir la función diferencia/2 recibe dos listas y devuelve los elementos de la primera que
-no están en la segunda.
-Completar la siguiente definición de diferencia
-diferencia l1 l2 = filter (\x -> ...) l1
+Definir la función `diferencia/2` que recibe dos listas y devuelve los elementos de la primera que no están en la segunda. Resolvendo empleando `filter` y expresiones lambda.
+
+Ejemplo:
+
+```haskell
+> diferencia [1, 2, 3, 9] [1, 3]
+[2, 9]
+```
+
