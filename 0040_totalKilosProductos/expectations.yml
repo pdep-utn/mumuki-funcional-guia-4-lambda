@@ -1,0 +1,5 @@
+expectations:
+- binding: totalKilosProducto
+inspection: HasLambda
+- binding: totalKilosProducto
+inspection: HasBinding
