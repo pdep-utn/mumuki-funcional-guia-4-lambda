@@ -1,9 +1,9 @@
 expectations:
- - binding: totalKilosProducto
+ - binding: totalKilosProductos
    inspection: HasLambda
- - binding: totalKilosProducto
+ - binding: totalKilosProductos
    inspection: HasBinding
- - binding: totalKilosProducto
+ - binding: totalKilosProductos
    inspection: HasUsage:foldl
- - binding: totalKilosProducto
+ - binding: totalKilosProductos
    inspection: HasTypeSignature
