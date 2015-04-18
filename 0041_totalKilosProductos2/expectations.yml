@@ -4,6 +4,4 @@ expectations:
  - binding: totalKilosProducto
    inspection: HasBinding
  - binding: totalKilosProducto
-   inspection: HasUsage:foldl
- - binding: totalKilosProducto
-   inspection: HasTypeSignature
+   inspection: HasUsage:map
