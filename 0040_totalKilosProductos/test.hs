@@ -1,10 +1,5 @@
 describe "totalKilosProducto" $ do
-  let productos1 = [
-      ("manzana", 50),
-      ("banana", 30),
-      ("naranja", 40),
-      ("papa", 40),
-      ("tomate", 25)]
+  let productos = [("manzana", 50), ("banana", 30), ("naranja", 40), ("papa", 40), ("tomate", 25)]
 
   it "totalKilosProducto productos == 185" $ do
     totalKilosProducto productos `shouldBe` 185
