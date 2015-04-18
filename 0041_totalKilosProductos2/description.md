@@ -7,5 +7,5 @@ Main> totalKilosProductos productos
 185
 ```
 
-**Nota**: Resolverlo empleando lambdas y **la función map**.
+**Nota**: Resolverlo empleando lambdas y **la función map**, **sin usar** `snd`.
 

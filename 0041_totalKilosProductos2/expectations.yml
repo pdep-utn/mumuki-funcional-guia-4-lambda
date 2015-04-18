@@ -5,3 +5,5 @@ expectations:
    inspection: HasBinding
  - binding: totalKilosProductos
    inspection: HasUsage:map
+ - binding: totalKilosProductos
+   inspection: Not:HasUsage:snd
