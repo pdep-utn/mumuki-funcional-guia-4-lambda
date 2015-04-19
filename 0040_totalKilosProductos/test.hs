@@ -7,8 +7,8 @@ describe "totalKilosProductos" $ do
   it "totalKilosProductos [] == 0" $ do
     totalKilosProductos [] `shouldBe` 0
 
-  it "totalKilosProductos [(\"melon\", 10)] == 0" $ do
+  it "totalKilosProductos [(\"melon\", 10)] == 10" $ do
     totalKilosProductos [("melon", 10)] `shouldBe` 10
 
-  it "totalKilosProductos [(\"melon\", 2), (\"sandia\", 20)] == 0" $ do
+  it "totalKilosProductos [(\"melon\", 2), (\"sandia\", 20)] == 22" $ do
     totalKilosProductos [("melon", 2), ("sandia", 20)] `shouldBe` 22
