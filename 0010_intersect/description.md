@@ -3,6 +3,6 @@ Utilizando expresiones lambda, definir la función  intersect , que dada 2 lista
 Ejemplo:
 
 ```haskell
-> inersect [1, 2, 3, 9] [4, 1, 3, 6]
+> intersect [1, 2, 3, 9] [4, 1, 3, 6]
 [1, 3]
 ```
