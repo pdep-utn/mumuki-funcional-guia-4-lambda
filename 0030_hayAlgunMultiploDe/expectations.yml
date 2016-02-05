@@ -1,7 +1,0 @@
-expectations:
- - binding: hayAlgunMultiploDe
-   inspection: HasLambda
- - binding: hayAlgunMultiploDe
-   inspection: HasBinding
- - binding: hayAlgunMultiploDe
-   inspection: HasUsage:any

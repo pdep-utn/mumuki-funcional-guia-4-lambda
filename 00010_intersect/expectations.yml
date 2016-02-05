@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: intersect
+  inspection: HasLambda
+- binding: intersect
+  inspection: HasBinding

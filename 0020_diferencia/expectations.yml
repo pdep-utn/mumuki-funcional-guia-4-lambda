@@ -1,7 +1,0 @@
-expectations:
- - binding: diferencia
-   inspection: HasLambda
- - binding: diferencia
-   inspection: HasBinding
- - binding: diferencia
-   inspection: HasUsage:filter

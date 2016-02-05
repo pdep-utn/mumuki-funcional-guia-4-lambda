@@ -1,3 +1,13 @@
-name: 'Práctica Expressiones Lambda'
+---
+name: Práctica Expresiones Lambda
 locale: es
+type: practice
+beta: false
 language: haskell
+id_format: '%05d'
+order:
+- 10
+- 20
+- 30
+- 40
+- 41

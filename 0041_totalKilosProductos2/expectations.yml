@@ -1,9 +1,0 @@
-expectations:
- - binding: totalKilosProductos
-   inspection: HasLambda
- - binding: totalKilosProductos
-   inspection: HasBinding
- - binding: totalKilosProductos
-   inspection: HasUsage:map
- - binding: totalKilosProductos
-   inspection: Not:HasUsage:snd
