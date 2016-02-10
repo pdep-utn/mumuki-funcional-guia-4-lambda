@@ -8,3 +8,5 @@ expectations:
   inspection: HasUsage:map
 - binding: totalKilosProductos
   inspection: Not:HasUsage:snd
+- binding: ''
+  inspection: ''

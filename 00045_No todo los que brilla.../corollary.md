@@ -1,0 +1,1 @@
+Así que si en algún momento te decimos que usas una expresión lambda innecesaria, ¡ya sabés por qué es!
