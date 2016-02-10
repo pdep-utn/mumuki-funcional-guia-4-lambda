@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: juntarStrings
+  inspection: HasBinding
+- binding: juntarStrings
+  inspection: HasUsage:foldl1
