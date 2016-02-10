@@ -8,4 +8,4 @@ True
 False
 ```
 
-Resolverlo utilizando orden superior y lambdas. No definir funciones auxiliares
+Resolvelo utilizando orden superior y lambdas. No definir funciones auxiliares
