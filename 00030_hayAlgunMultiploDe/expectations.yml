@@ -6,3 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: hayAlgunMultiploDe
   inspection: HasUsage:any
+- binding: ''
+  inspection: ''
