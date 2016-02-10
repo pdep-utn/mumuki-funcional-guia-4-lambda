@@ -4,5 +4,3 @@ expectations:
   inspection: HasLambda
 - binding: intersect
   inspection: HasBinding
-- binding: ''
-  inspection: ''
