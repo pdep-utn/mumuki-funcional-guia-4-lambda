@@ -1,0 +1,1 @@
+Las funciones anónimas son expresiones que podemos usar en cualquier lugar (y que tenga un tipo válido, claro :stuck_out_tongue:) 
