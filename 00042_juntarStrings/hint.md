@@ -1,0 +1,1 @@
+Tip: esta función es una generalización de otra que ya escribimos antes: `csv`, en la lección sobre listas. 
