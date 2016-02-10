@@ -5,7 +5,7 @@ El problema es que como la función que le pasamos al fold es compleja, la aplic
 Algo así:
 
 ```haskell
-juntarStrings = foldl1 juntarDosStringsCon
+juntarStrings separador = foldl1 (juntarDosStringsCon separador)
 
-juntarDosStrings = (\e a -> e ++ "," ++ a
+juntarDosStrings separador s1 s2 = s1 ++ separador ++ s2
 ```
