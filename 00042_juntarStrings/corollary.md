@@ -10,4 +10,4 @@ juntarStrings separador = foldl1 (juntarDosStringsCon separador)
 juntarDosStrings separador s1 s2 = s1 ++ separador ++ s2
 ```
 
-¿Era realmente necesario definir una función auxiliar?
+¿Era realmente necesario definir una función auxiliar? _Veamos.._
