@@ -1,29 +1,13 @@
-Guía de ejercicios sobre expresiones lambda.
+¡Qué bueno que llegaste! Justo andabamos con un problema y necesitábamos una mano. 
 
-Las expresiones lambda, permiten definir y utilizar funciones sin darles un nombre explícitamente mediante una expresión.
-
-Por ejemplo, la función cuadrado en expresada mediante una lambda, es la siguiente:
-
-```
-ʎ x . x * x
-```
-
-Pasado a Haskell, tengo, esto se escribe de la siguiente forma:
+Tenemos que convertir una lista de strings en un sólo string, usando un _separador_.  Algo así: 
 
 ```haskell
-(\x -> x * x)
+ム juntarStrings " " ["hola","todo", "el", "mundo"]
+"hola todo el mundo"
+
+ム juntarStrings "," ["soy", "el", "dr", "nick"]
+"soy,el,dr,nick"
 ```
 
-Y la aplico así:
-
-```Haskell
-Main> (\x -> x * x) 2
-4
-```
-
-Como último ejemplo, si quiero calcular el producto entre 2 números utilizando expresiones lambda, puedo hacer:
-
-```haskell
-Main> (\x y -> x * y) 2 3
-6
-```
+Creemos recordar que vos ya hiciste algo parecido algunas lecciones antes, ¿no? ¡Acompañamos entonces!
