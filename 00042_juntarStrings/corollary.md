@@ -1,6 +1,6 @@
 ¿Fácil no?
 
-El problema es que como la función que le pasamos al fold es compleja, no podemos usar aplicación parcial, y necesitamos definir una función auxiliar. 
+El problema es que como la función que le pasamos al fold es compleja, la aplicación parcial no es suficiente, y necesitamos definir una función auxiliar. 
 
 Algo así:
 
