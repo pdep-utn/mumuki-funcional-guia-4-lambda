@@ -2,5 +2,3 @@
 expectations:
 - binding: triplesDe
   inspection: Not:HasLambda
-- binding: ''
-  inspection: ''

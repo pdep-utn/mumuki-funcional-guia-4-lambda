@@ -2,3 +2,5 @@
 expectations:
 - binding: juntarStrings
   inspection: HasLambda
+- binding: juntarStrings
+  inspection: HasUsage:foldl1
