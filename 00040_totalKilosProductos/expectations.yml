@@ -8,3 +8,5 @@ expectations:
   inspection: HasUsage:foldl
 - binding: totalKilosProductos
   inspection: HasTypeSignature
+- binding: totalKilosProductos
+  inspection: Not:HasUsage:map
