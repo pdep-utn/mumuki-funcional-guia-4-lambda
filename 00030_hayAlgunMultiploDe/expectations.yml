@@ -1,11 +1,8 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: hayAlgunMultiploDe
+- binding: hayAlgunMultiploDe
   inspection: HasLambda
-- !ruby/hash:BSON::Document
-  binding: hayAlgunMultiploDe
+- binding: hayAlgunMultiploDe
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: hayAlgunMultiploDe
+- binding: hayAlgunMultiploDe
   inspection: HasUsage:any

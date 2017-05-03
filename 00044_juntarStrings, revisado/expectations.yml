@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: juntarStrings
+- binding: juntarStrings
   inspection: HasLambda
-- !ruby/hash:BSON::Document
-  binding: juntarStrings
+- binding: juntarStrings
   inspection: HasUsage:foldl1

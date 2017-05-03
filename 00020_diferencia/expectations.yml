@@ -1,11 +1,8 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: diferencia
+- binding: diferencia
   inspection: HasLambda
-- !ruby/hash:BSON::Document
-  binding: diferencia
+- binding: diferencia
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: diferencia
+- binding: diferencia
   inspection: HasUsage:filter

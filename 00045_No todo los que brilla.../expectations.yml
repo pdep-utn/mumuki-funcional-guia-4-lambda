@@ -1,5 +1,4 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: triplesDe
+- binding: triplesDe
   inspection: Not:HasLambda
