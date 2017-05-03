@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: intersectar
+- !ruby/hash:BSON::Document
+  binding: intersectar
   inspection: HasLambda
-- binding: intersectar
+- !ruby/hash:BSON::Document
+  binding: intersectar
   inspection: HasBinding

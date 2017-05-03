@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: totalKilosProductos
+- !ruby/hash:BSON::Document
+  binding: totalKilosProductos
   inspection: HasLambda
-- binding: totalKilosProductos
+- !ruby/hash:BSON::Document
+  binding: totalKilosProductos
   inspection: HasBinding
-- binding: totalKilosProductos
+- !ruby/hash:BSON::Document
+  binding: totalKilosProductos
   inspection: HasUsage:map
-- binding: totalKilosProductos
+- !ruby/hash:BSON::Document
+  binding: totalKilosProductos
   inspection: Not:HasUsage:snd
